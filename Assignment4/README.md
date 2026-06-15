@@ -365,6 +365,10 @@ train/val სხვაობა შემცირდა 46.43-დან 2.42 �
 თითოეული WandB run შეესაბამება ერთი მოდელის ერთ კონკრეტულ ვერსიას.
 
 
+Wandb - ის ლინკი: 
+https://wandb.ai/gbera23-free-university-of-tbilisi-/facial-expression-recognition/table?nw=nwusergbera23
+
+
 **ჩაწერილი მეტრიკები:**
 
 | მეტრიკა | აღწერა |
